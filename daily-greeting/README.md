@@ -13,4 +13,5 @@ This plugin exists to test cross-device plugin sync via a marketplace. The fun f
 
 ## Version History
 
+- **0.2.0** - Updated fun fact: octopuses have three hearts.
 - **0.1.0** - Initial release. Fun fact: honey never spoils.

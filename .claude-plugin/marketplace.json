@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "daily-greeting",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "source": "./daily-greeting",
       "description": "A simple daily greeting plugin that shares the date and a fun fact. Built to test cross-device plugin sync."
     }
