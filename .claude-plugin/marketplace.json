@@ -1,0 +1,16 @@
+{
+  "name": "tim-cowork-plugins",
+  "version": "1.0.0",
+  "description": "Tim's personal Cowork plugin marketplace for syncing skills across devices.",
+  "owner": {
+    "name": "Tim Jackson"
+  },
+  "plugins": [
+    {
+      "name": "daily-greeting",
+      "version": "0.1.0",
+      "source": "./daily-greeting",
+      "description": "A simple daily greeting plugin that shares the date and a fun fact. Built to test cross-device plugin sync."
+    }
+  ]
+}

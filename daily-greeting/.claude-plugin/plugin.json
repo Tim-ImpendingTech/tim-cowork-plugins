@@ -1,0 +1,9 @@
+{
+  "name": "daily-greeting",
+  "version": "0.1.0",
+  "description": "A simple daily greeting plugin that shares the date and a fun fact. Built to test cross-device plugin sync via marketplace.",
+  "author": {
+    "name": "Tim Jackson"
+  },
+  "keywords": ["greeting", "daily", "test"]
+}
